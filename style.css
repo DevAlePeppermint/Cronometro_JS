@@ -1,0 +1,29 @@
+body{
+    background-color: #87CEFA;
+
+}
+
+.container {
+
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 8px;
+    height: 400px;
+    width: 350px;
+    margin: auto;
+}
+
+.container #começar{
+
+    background: salmon;
+    color: white;
+    font-size: 18px;
+    padding: 8px 20px ;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+
+    display: block;
+    margin: 10px auto;
+    
+}
