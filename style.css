@@ -3,6 +3,10 @@ body{
 
 }
 
+#sound{
+    display: none;
+}
+
 .container {
 
     text-align: center;
@@ -13,7 +17,7 @@ body{
     margin: auto;
 }
 
-.container #começar{
+.container #comecar{
 
     background: salmon;
     color: white;
